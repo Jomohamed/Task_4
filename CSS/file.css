@@ -1,0 +1,342 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body {
+    background-color: #f4f3ee;
+}
+main {
+    width: 100%;
+    height: 625px;
+    background-image: url(../IMAGES/naturalbeauty-1527187973.jpg);
+    background-size: cover;
+}
+.container {
+    width: 80%;
+    height: 1950px;
+    background-color: #fff;
+    margin: -250px auto 0px auto;
+}
+header {
+    width: 100%;
+    height: 65px;
+    display: flex;
+    justify-content: space-between;
+}
+.header-tittle {
+    padding: 25px 0px 0px 45%;
+    font-size: 20px;
+    word-spacing: 2px;
+}
+.header-ul {
+    list-style: none;
+    margin: 30px 30px 0px 0px;
+}
+header .header-ul li {
+    display: inline;
+    font-size: 15px;
+    padding-right: 2px;
+}
+.div-ul {
+    width: 100%;
+    height: 28px;
+    text-align: center;
+    border-bottom: 1px solid #8a817c;
+}
+.div-ul ul {
+    list-style: none;
+}
+.div-ul ul li {
+    display: inline;
+    padding: 20px;
+    font-size: 13px;
+}
+.home {
+    width: 100%;
+    height: 350px;
+}
+.home-info {
+    width: 90%;
+    height: 100px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.h2-home-info {
+    margin-top: 50px;
+    word-spacing: 2px;
+}
+.p-home-info {
+    margin: 58px 0px 0px 400px;
+    font-size: 11px;
+}
+.div-home-info {
+    width: 170px;
+    height: 100px;
+    font-weight: bold;
+}
+.div-home-info p {
+    font-size: 12px;
+    padding: 25px 0px 0px 0px;
+}
+.div-home-info select {
+    width: 170px;
+    height: 30px;
+    border: 1px solid #62605f;
+}
+.parent {
+    width: 90%;
+    height: 470px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.iteams {
+    width: 220px;
+    height: 430px;
+}
+.p1 {
+    font-weight: bold;
+    padding: 5px 0px 10px 0px;
+}
+.p2 {
+    color: #8a817c;
+    font-size: 13px;
+}
+.p3 {
+    font-size: 14px;
+    padding: 10px 0px 10px 0px;
+}
+del {
+    color: #d00000;
+    padding-left: 15px;
+}
+.button-iteams {
+    padding: 5px 75px;
+    border: 1px solid #a7a3a1;
+    margin-top: 15px;
+    font-weight: bold;
+    background-color: #f4f3ee;
+}
+/* --------------------------------------------------------------------------------------------------------------  */
+.containar2 {
+    width: 80%;
+    height: 950px;
+    margin: auto;
+    border-top: 1px solid #8a817c;
+    background-color: #fff;
+    border-bottom: 1px solid #8a817c;
+}
+.home2 {
+    width: 100%;
+    height: 155px;
+    text-align: center;
+}
+.home2 h2 {
+    padding: 80px 0px 5px 0px;
+}
+.home2 p {
+    font-size: 12px;
+    text-transform: capitalize;
+    word-spacing: 1px;
+}
+.about-home {
+    width: 100%;
+    height: 700px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.one {
+    width: 28%;
+    height: 700px;
+    margin-left: 22px;
+}
+.two {
+    width: 62%;
+    height: 700px;
+}
+.two-child {
+    width: 100%;
+    height: 350px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.n2 {
+    margin-top: 11px;
+}
+.number1 {
+    width: 300px;
+    height: 350px;
+}
+.number10 {
+    padding: 5px 0px;
+}
+.hh {
+    padding: 0px;
+}
+.hhh {
+    padding: 5px 66px;
+}
+/* ------------------------------------------------------------------------------------------------------------ */
+.containar3 {
+    width: 80%;
+    height: 1000px;
+    background-color: #fff;
+    margin: auto;
+}
+.title111 {
+    width: 100%;
+    height: 125px;
+    text-align: center;
+    font-size: 45px;
+    font-weight: bold;
+    padding-top: 60px;
+}
+.big {
+    width: 90%;
+    height: 600px;
+    margin: auto;
+}
+.divbig {
+    width: 100%;
+    height: 270px;
+    display: flex;
+    justify-content: space-between;
+}
+.divbig2 {
+    margin-top: 30px;
+}
+.info-big {
+    width: 300px;
+    height: 245px;
+}
+.paragraph {
+    width: 90%;
+    height: 240px;
+    margin: auto;
+    background-color: #f2f3f4;
+}
+.pa-hh {
+    width: 485px;
+    height: 240px;
+    text-align: center;
+    margin: auto;
+    padding-top: 80px;
+    font-weight: bold;
+    line-height: 20px;
+}
+/* --------------------------------------------------------------------------------------------------------------- */
+.containar4 {
+    width: 80%;
+    height: 690px;
+    background-color: #fff;
+    margin: auto;
+    border-bottom: 1px solid #8a817c;
+}
+.con4-div {
+    width: 90%;
+    height: 600px;
+    margin: auto;
+}
+.con4-child1 {
+    width: 500px;
+    height: 600px;
+    float: left;
+}
+.con4-child2 {
+    width: 400px;
+    height: 600px;
+    float: right;
+}
+h1 {
+    padding: 150px 0px 13px 25px;
+    font-size: 45px;
+}
+.email {
+    display: block;
+    margin: 10px 0px 13px 25px;
+    padding: 7px 150px 7px 2px;
+    border: 1px solid #8a817c;
+    font-size: 12px;
+}
+.img-con4 {
+    margin: 13px 0px 0px 25px;
+}
+/* -------------------------------------------------------------------------------------------------------------- */
+footer {
+    width: 80%;
+    height: 350px;
+    background-color: #fff;
+    margin: auto;
+}
+.tittle-footer {
+    width: 100%;
+    height: 120px;
+    text-align: center;
+}
+.h2-footer {
+    font-size: 35px;
+    padding-top: 60px;
+}
+.icons-footer {
+    width: 100%;
+    height: 200px;
+}
+.footer1 {
+    width: 250px;
+    height: 190px;
+    float: left;
+    border-right: 1px solid #8a817c;
+}
+.yes {
+    color: #582f0e;
+    padding-top: 20px;
+    font-size: 15px;
+}
+.yes1 {
+    padding-left: 50px;
+}
+.reviw {
+    font-size: 15px;
+    color: #7e7d7b;
+    padding: 7px 0px 0px 50px;
+}
+.ff {
+    width: 100%;
+    height: 20px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.ff1 {
+    margin-top: 20px;
+}
+.no {
+    color: #582f0e;
+    font-size: 15px;
+}
+.no5 {
+    color: #928f8e;
+}
+.no4 {
+    color: #928f8e;
+}
+.no3 {
+    color: #928f8e;
+}
+.no2 {
+    color: #928f8e;
+}
+.price {
+    color: #928f8e;
+}
+.mes {
+    float: left;
+}
+.message {
+    float: left;
+    padding: 5px 100px 5px 10px;
+    margin: 70px 0px 0px 100px;
+}
+/* -------------------------------------------------------------------------------------------------------------- */
